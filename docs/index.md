@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Website Status Pages:
 
-You can use the [editor on GitHub](https://github.com/dbadmin/WebStatus/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Zoom
+[https://status.zoom.us](https://stmarcus.statuspage.io)
+	
+## IXL
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dose not provide their own status page. This link will indicate if they are having a speed issue. The larger the response time means access could be slow.
 
-### Markdown
+[https://www.uptimia.com/status/ixl.com](https://stmarcus.statuspage.io)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## raz-kids
 
-# Header 1
-## Header 2
-### Header 3
+No status page or reliable source to verify status. 
 
-- Bulleted
-- List
+## GoGuardian Status
+[https://status.goguardian.com](https://stmarcus.statuspage.io)
+	
+## Google
 
-1. Numbered
-2. List
+[https://www.google.com/appsstatus#hl=en&v=status](https://stmarcus.statuspage.io)
+	
+## illuminate
 
-**Bold** and _Italic_ and `Code` text
+[https://status.illuminateed.com](https://stmarcus.statuspage.io)
+	
+## Zearn
 
-[Link](url) and ![Image](src)
-```
+[http://status.zearn.org](https://stmarcus.statuspage.io)
+	
+## Skyward
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dbadmin/WebStatus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[https://stmarcus.statuspage.io](https://stmarcus.statuspage.io)
