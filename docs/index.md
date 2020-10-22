@@ -5,7 +5,7 @@
 	
 ## IXL
 
-Dose not provide their own status page. This link will indicate if they are having a speed issue. The larger the response time means access could be slow.
+Does not provide their own status page. This link will indicate if they are having a speed issue. The larger the response time means access could be slow.
 
 [https://www.uptimia.com/status/ixl.com](https://www.uptimia.com/status/ixl.com)
 
@@ -20,7 +20,7 @@ No status page or reliable source to verify status.
 ## Google
 This will let you know if Gmail, Google Calendar, Goole Drive or Google Meet are having any issues. 
 
-[https://www.google.com/appsstatus#hl=en&v=status](https://www.google.com/appsstatus#hl=en&v=status)
+[https://www.google.com/appsstatus#hl=en&v=status](https://www.google.com/appsstatus#hl=en&v=status){:target="_blnak"}
 	
 ## illuminate
 
@@ -36,3 +36,5 @@ About Zearn [https://about.zearn.org](https://about.zearn.org)
 Skyward is our SIS (Student Information System).
 
 [https://stmarcus.statuspage.io](https://stmarcus.statuspage.io)
+
+
