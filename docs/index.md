@@ -20,7 +20,7 @@ No status page or reliable source to verify status.
 ## Google
 This will let you know if Gmail, Google Calendar, Goole Drive or Google Meet are having any issues. 
 
-[https://www.google.com/appsstatus#hl=en&v=status](https://www.google.com/appsstatus#hl=en&v=status){:target="_blnak"}
+[https://www.google.com/appsstatus#hl=en&v=status](https://www.google.com/appsstatus#hl=en&v=status)
 	
 ## illuminate
 
