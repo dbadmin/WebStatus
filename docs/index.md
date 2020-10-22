@@ -1,13 +1,13 @@
 # Website Status Pages:
 
 ## Zoom
-[https://status.zoom.us](https://stmarcus.statuspage.io)
+[https://status.zoom.us](https://status.zoom.us)
 	
 ## IXL
 
 Dose not provide their own status page. This link will indicate if they are having a speed issue. The larger the response time means access could be slow.
 
-[https://www.uptimia.com/status/ixl.com](https://stmarcus.statuspage.io)
+[https://www.uptimia.com/status/ixl.com](https://www.uptimia.com/status/ixl.com)
 
 
 ## raz-kids
@@ -15,20 +15,24 @@ Dose not provide their own status page. This link will indicate if they are havi
 No status page or reliable source to verify status. 
 
 ## GoGuardian Status
-[https://status.goguardian.com](https://stmarcus.statuspage.io)
+[https://status.goguardian.com](https://status.goguardian.com)
 	
 ## Google
+This will let you know if Gmail, Google Calendar, Goole Drive or Google Meet are having any issues. 
 
-[https://www.google.com/appsstatus#hl=en&v=status](https://stmarcus.statuspage.io)
+[https://www.google.com/appsstatus#hl=en&v=status](https://www.google.com/appsstatus#hl=en&v=status){:target="_blnak"}
 	
 ## illuminate
 
-[https://status.illuminateed.com](https://stmarcus.statuspage.io)
+[https://status.illuminateed.com](https://status.illuminateed.com)
 	
 ## Zearn
 
-[http://status.zearn.org](https://stmarcus.statuspage.io)
+[http://status.zearn.org](http://status.zearn.org)
+
+About Zearn [https://about.zearn.org](https://about.zearn.org)
 	
 ## Skyward
+Skyward is our SIS (Student Information System).
 
 [https://stmarcus.statuspage.io](https://stmarcus.statuspage.io)
