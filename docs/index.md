@@ -1,4 +1,4 @@
-# Website Status Pages 1:
+# Website Status Pages:
 
 ## Zoom
 [https://status.zoom.us](https://stmarcus.statuspage.io)
