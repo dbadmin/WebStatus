@@ -40,7 +40,7 @@ Skyward is our SIS (Student Information System).
 ## Postmarkapp
 Used to send out emails from Skyward and other systems.
 
-[https://status.postmarkapp.com/incidents](https://status.postmarkapp.com/incidents)
+[https://status.postmarkapp.com/](https://status.postmarkapp.com/)
 
 ## Millennium
 
