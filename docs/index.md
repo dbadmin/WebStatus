@@ -50,3 +50,8 @@ Used to send out emails from Skyward and other systems.
 
 [https://jasper2.statuspage.io/](https://jasper2.statuspage.io/)
 
+## Church App
+
+Status page for Church app.
+
+[https://stmarcusmkeapp.statuspage.io](https://stmarcusmkeapp.statuspage.io)
