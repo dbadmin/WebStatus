@@ -55,3 +55,9 @@ Used to send out emails from Skyward and other systems.
 Status page for Church app.
 
 [https://stmarcusmkeapp.statuspage.io](https://stmarcusmkeapp.statuspage.io)
+
+## Procare
+
+Used for school payments like K3 or school fees. 
+
+[https://procaresolutions.statuspage.io/?utm_source=mailer&utm_campaign=outage_email&cmp=1&utm_medium=email](https://procaresolutions.statuspage.io/?utm_source=mailer&utm_campaign=outage_email&cmp=1&utm_medium=email)
