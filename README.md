@@ -5,20 +5,20 @@
 	
 ## IXL
 
-Does not provide their own status page. This link will indicate if they are having a speed issue. The larger the response time means access could be slow.
+It does not provide its own status page. This link will indicate if they are having a speed issue. The larger the response time, the slower access could be.
 
 [https://www.uptimia.com/status/ixl.com](https://www.uptimia.com/status/ixl.com)
 
 
 ## raz-kids
 
-No status page or reliable source to verify status. 
+There is no status page or reliable source to verify the status. 
 
 ## GoGuardian Status
 [https://status.goguardian.com](https://status.goguardian.com)
 	
 ## Google
-This will let you know if Gmail, Google Calendar, Goole Drive or Google Meet are having any issues. 
+This will let you know if Gmail, Google Calendar, Google Drive, or Google Meet are having any issues. 
 
 [https://www.google.com/appsstatus#hl=en&v=status](https://www.google.com/appsstatus#hl=en&v=status){:target="_blnak"}
 	
@@ -50,8 +50,12 @@ Used to send out emails from Skyward and other systems.
 
 [https://jasper2.statuspage.io/](https://jasper2.statuspage.io/)
 
-## Church App
+## NWEA
 
-Status page for Church app.
+[https://status.nwea.org/#](https://status.nwea.org/#)
 
-[https://stmarcusmkeapp.statuspage.io](https://stmarcusmkeapp.statuspage.io)
+## Procare
+
+Used for school payments like K3 or school fees. 
+
+[https://procaresolutions.statuspage.io/?utm_source=mailer&utm_campaign=outage_email&cmp=1&utm_medium=email](https://procaresolutions.statuspage.io/?utm_source=mailer&utm_campaign=outage_email&cmp=1&utm_medium=email)
