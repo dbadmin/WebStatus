@@ -2,13 +2,6 @@
 
 ## Zoom
 [https://status.zoom.us](https://status.zoom.us)
-	
-## IXL
-
-It does not provide its own status page. This link will indicate if they are having a speed issue. The larger the response time, the slower access could be.
-
-[https://www.uptimia.com/status/ixl.com](https://www.uptimia.com/status/ixl.com)
-
 
 ## raz-kids
 
@@ -25,12 +18,6 @@ This will let you know if Gmail, Google Calendar, Google Drive, or Google Meet a
 ## illuminate
 
 [https://status.illuminateed.com](https://status.illuminateed.com)
-	
-## Zearn
-
-[http://status.zearn.org](http://status.zearn.org)
-
-About Zearn [https://about.zearn.org](https://about.zearn.org)
 	
 ## Skyward
 Skyward is our SIS (Student Information System).
