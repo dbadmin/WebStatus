@@ -29,7 +29,7 @@ Used to send out emails from Skyward and other systems.
 
 [https://status.postmarkapp.com/](https://status.postmarkapp.com/)
 
-## Eenaissance
+## Renaissance
 
 [https://status.renaissance.com/](https://status.renaissance.com/)
 
