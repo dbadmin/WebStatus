@@ -29,13 +29,10 @@ Used to send out emails from Skyward and other systems.
 
 [https://status.postmarkapp.com/](https://status.postmarkapp.com/)
 
-## Millennium
+## Eenaissance
 
-[https://me59.statuspage.io/](https://me59.statuspage.io/)
+[https://status.renaissance.com/](https://status.renaissance.com/)
 
-## Jasper
-
-[https://jasper2.statuspage.io/](https://jasper2.statuspage.io/)
 
 ## NWEA
 
